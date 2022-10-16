@@ -95,7 +95,7 @@ comments:
     shortname:   # fill with the Disqus shortname. ??https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings ??https://utteranc.es/
   utterances:
-    repo="airpark69/dragonhunter69.github.io/"
+    repo="airpark69/dragonhunter69.github.io"
     issue-term="pathname"
     theme="github-light"
     crossorigin="anonymous"
