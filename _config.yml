@@ -10,7 +10,7 @@ collections:
     output: true
     sort_by: order
 comments: 
-  active: 'utterances'
+  active: ~
   disqus: 
     shortname: ~
   giscus: 
