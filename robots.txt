@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://airpark69.github.io/dragonhunter69.github.io/sitemap.xml
