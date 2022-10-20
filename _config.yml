@@ -3,7 +3,7 @@ assets:
   self_host: 
     enabled: ~
     env: ~
-avatar: /commons/avatar.jpg
+avatar: assets/img/avatar.jpg
 baseurl: /dragonhunter69.github.io
 collections: 
   tabs: 
@@ -68,7 +68,7 @@ defaults:
       path: assets/js/dist
     values: 
       swcache: true
-description: "A minimal, responsive, and powerful Jekyll theme for presenting professional writing."
+description: "아득한 오류와 실패를 넘어서."
 exclude: 
   - "*.gem"
   - "*.gemspec"
@@ -87,7 +87,7 @@ google_analytics:
     cache_path: ~
     proxy_endpoint: ~
 google_site_verification: ~
-img_cdn: "https://raw.githubusercontent.com/cotes2020/chirpy-images/main"
+img_cdn: ""
 jekyll-archives: 
   enabled: 
     - categories
