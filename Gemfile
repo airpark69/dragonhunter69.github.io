@@ -22,4 +22,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "webrick", "~> 1.7"
 gem 'jekyll-sitemap'
 gem 'public_suffix', '~> 4.0', '>= 4.0.7'
-gem 'nokogiri', '~> 1.12', '>= 1.12.5'
+gem 'nokogiri', '~> 1.12', '= 1.12.5'
